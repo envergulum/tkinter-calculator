@@ -1,17 +1,7 @@
 from tkinter import *
 from Islemler import process
-  
+
 Process=process
-  
-  
-
-
-
-
-
-
-
-
 
 def tıklanan_button(sayi):
     entry1.config(state= "normal")
