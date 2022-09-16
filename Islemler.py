@@ -1,0 +1,9 @@
+class process:
+    def toplamaİslemi(a,b):
+        return a+b
+    def cıkarmaİslemi(a,b):
+        return a-b
+    def carpmaİslemi(a,b):
+        return a*b
+    def bölmeİslemi(a,b):
+        return a/b
